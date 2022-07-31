@@ -1,6 +1,6 @@
 ## About
 
-Ai Salary Predictor is an AI model that can predict employee salaries based on their years of experience.
+AI Salary Predictor is an AI model that can predict employee salaries based on their years of experience.
 
 ## Context
 
