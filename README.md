@@ -4,7 +4,7 @@ AI Salary Predictor is an AI model that can predict employee salaries based on t
 
 ## Context
 
-This AI model can predict employee salaries based on their years of experience. This uses a data set that includes two fields: years of experience and salary. Years of experience is an independent variable, whereas salary depends on years of experience. This demonstrates that the higher the salary, the more employee experience. To make the model, we split the data set then a linear regression model is made used to predict the salary. In addition, we run a polynomial regression model on the data to better expect the salary.
+This AI model makes use of a data set that includes two fields: years of experience and salary. Years of experience is an independent variable, whereas salary is dependent on years of experience. This demonstrates that the more employee experience someone has, the higher their salary will be. To create the model, we split the data set and then created a linear regression model to predict the salary. In addition, we run a polynomial regression model on the data to better predict the salary.
 
 <p align="center" width="100%">
 <img
